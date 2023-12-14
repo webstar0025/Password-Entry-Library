@@ -42,7 +42,7 @@ const App = () => {
   return (
     <form onSubmit={handleSubmit} className="Password-Entry">
       <div>
-        <label for="pwd">Password:</label>
+        <label for="pwd">Password</label>
         <input
           type="password"
           id="pwd"
@@ -52,7 +52,7 @@ const App = () => {
         />
       </div>
       <div>
-        <label for="confirm-pwd">Confirm Password:</label>
+        <label for="confirm-pwd">Confirm Password</label>
         <input
           type="password"
           id="confirm-pwd"

@@ -1,10 +1,35 @@
 .Password-Entry {
   display: flex;
   flex-direction: column;
-  row-gap: 8px;
+  row-gap: 12px;
   padding: 24px;
   margin: auto;
   margin-top: 10%;
   width: 100%;
   max-width: 350px;
+}
+
+input {
+  padding: 4px;
+  border-radius: 4px; 
+  width: 100%;
+  margin-top: 4px;
+}
+
+button {
+  margin-top: 20px;
+  cursor: pointer;
+  background: #0066A2;
+  color: white;
+  border-style: outset;
+  border-color: #0066A2;
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+
+button:hover {
+  background: #016ABC;
+  border: 1px solid #eee;
+  box-shadow: 5px 5px 5px #eee;
 }

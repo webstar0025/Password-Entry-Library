@@ -16,3 +16,5 @@ In the project directory, you can run:
 
 1. npm install
 2. npm start
+
+![Alt text](https://github.com/webstar0025/Password-Entry-Library/assets/5850106/381db2a4-8c78-4068-acf9-dad7f20bafb0)
